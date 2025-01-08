@@ -4,6 +4,8 @@
 
 ![Image Description](Backend-Master-Class-Golang-Postgres-Kubernetes-gRPC.jpg)
 
+![Image Description](c++.jpg)
+
 ![Image Description](Bootcamp-Completo-de-BlockchainWeb3-de-cero-a-experto.jpg)
 
 ![Image Description](java-intermedio.jpg)
