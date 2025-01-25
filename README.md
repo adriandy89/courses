@@ -2,6 +2,8 @@
 
 ![Image Description](nest-angular.jpg)
 
+![Image Description](openai-nest-angular.jpg)
+
 ![Image Description](Backend-Master-Class-Golang-Postgres-Kubernetes-gRPC.jpg)
 
 ![Image Description](c++.jpg)
