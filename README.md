@@ -24,4 +24,6 @@
 
 ![Image Description](sql.jpg)
 
+![Image Description](bash-scripting.jpg)
+
 ![Image Description](g-cloud-computing.png)
